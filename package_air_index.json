@@ -1183,42 +1183,42 @@
           "systems": [
             {
               "host": "x86_64-mingw32",
-              "url": "https://arduino.luatos.com/http://arduino.luatos.com/AirISP-0.2.0-windows-x86_64.zip",
+              "url": "http://arduino.luatos.com/AirISP-0.2.0-windows-x86_64.zip",
               "archiveFileName": "AirISP-0.2.0-windows-x86_64.zip",
               "checksum": "SHA-256:94d53cbe767a7bf413c2cbeaba19ea9414544d73fbdb2402f4233804e26a83f0",
               "size": "4208982"
             },
             {
               "host": "i686-mingw32",
-              "url": "https://arduino.luatos.com/http://arduino.luatos.com/AirISP-0.2.0-windows-x86_64.zip",
+              "url": "http://arduino.luatos.com/AirISP-0.2.0-windows-x86_64.zip",
               "archiveFileName": "AirISP-0.2.0-windows-x86_64.zip",
               "checksum": "SHA-256:94d53cbe767a7bf413c2cbeaba19ea9414544d73fbdb2402f4233804e26a83f0",
               "size": "4208982"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://arduino.luatos.com/http://arduino.luatos.com/AirISP-0.2.0-macos-x86_64.tar.gz",
+              "url": "http://arduino.luatos.com/AirISP-0.2.0-macos-x86_64.tar.gz",
               "archiveFileName": "AirISP-0.2.0-macos-x86_64.tar.gz",
               "checksum": "SHA-256:f11ded494ea8c727287cdd845bee211d0eec3ef2a04a43aeffb6b15177619024",
               "size": "4742018"
             },
             {
               "host": "arm64-apple-darwin",
-              "url": "https://arduino.luatos.com/http://arduino.luatos.com/AirISP-0.2.0-macos-aarch64.tar.gz",
+              "url": "http://arduino.luatos.com/AirISP-0.2.0-macos-aarch64.tar.gz",
               "archiveFileName": "AirISP-0.2.0-macos-aarch64.tar.gz",
               "checksum": "SHA-256:5de2bd33a6f732735760523d403df6cea84a7c54fd6676e30782775994db21c6",
               "size": "4637106"
             },
             {
               "host": "aarch64-linux-gnu",
-              "url": "https://arduino.luatos.com/http://arduino.luatos.com/AirISP-0.2.0-linux-aarch64.tar.gz",
+              "url": "http://arduino.luatos.com/AirISP-0.2.0-linux-aarch64.tar.gz",
               "archiveFileName": "AirISP-0.2.0-linux-aarch64.tar.gz",
               "checksum": "SHA-256:09a5ff9778902971c98f3dd64f6bb72ca28ac7936058059dd4fbf11e486246c5",
               "size": "6110010"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://arduino.luatos.com/http://arduino.luatos.com/AirISP-0.2.0-linux-x86_64.tar.gz",
+              "url": "http://arduino.luatos.com/AirISP-0.2.0-linux-x86_64.tar.gz",
               "archiveFileName": "AirISP-0.2.0-linux-x86_64.tar.gz",
               "checksum": "SHA-256:0d9695b894ab7f70531354e7b3f9df7c57e31d1f819a9758b7d128ad14a9eac1",
               "size": "6075726"
